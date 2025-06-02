@@ -16,11 +16,12 @@ _This project was created as part of the CSCI 571: Web Technologies course at US
 3. [📡 Backend API Response Example](#-backend-api-response-example)
 4. [📇 MongoDB Atlas Collection Format](#-mongodb-atlas-collection-format)
 5. [🧰 Summary of Tools and Technologies](#-summary-of-tools-and-technologies)
+6. [📱 Android App](#-android-app)
 
 
 ## 🎬 Demo Video
 
-The following is a complete walkthrough of the Artist Search web app, showcasing all core features and functionality, including **artist search**, **details view**, **artworks**, **categories**, **favorites management**, **authentication**, and **notifications**.
+The following is a complete walkthrough of the Artist Search web app, showcasing all core features and functionality, including **artist search**, **details view**, **artworks**, **categories**, **favorites management**, **authentication**, and **toast notifications**.
 
 https://github.com/user-attachments/assets/f7a4c1ef-79f3-4dd5-ab12-a386fa444536
 
@@ -92,3 +93,8 @@ The MongoDB ``users`` collection stores registered user data, including hashed p
 * **Notifications**: Bootstrap Toasts
 * **Testing tools**: Postman
 * **Deployment**: Google Cloud Platform
+
+
+## 📱 Android App
+
+An Android version of this app, built using **Kotlin**, **Jetpack Compose**, **Retrofit**, and **Coil**, is available here: [Artist Search Android App](https://github.com/Taejas/artist-search-android)
